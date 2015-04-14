@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   
+    <string-array name="person_id">
+        <item>Not Defined</item>
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>        
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>        
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>        
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>   
+    </string-array>
+    
+    <string-array name="sensor_locations">
+         <item>Not Defined</item>
+        <item>Left Pocket</item>
+        <item>Right Pocket</item>   
+    </string-array>
+        
+    <string-array name="shoe_types">  
+         
+         <item>Not Defined</item>
+        <item>Sneakrs</item>
+        <item>OutDoor Running </item>
+        <item>InDoor Running</item>
+        <item>Office Boots</item>
+        <item>Safety Boots</item>
+    </string-array>
+    
+    <string-array name="lower_types">  
+         <item>Not Defined</item>
+        <item>Jeans</item>
+        <item>Dress Pents</item>
+        <item>Skrits</item>
+    </string-array>
+        <string-array name="suface_types">
+         <item>Not Defined</item>      
+        <item>Plain Concrete</item>
+        <item>Plain Grass</item>
+        <item>Plain Inclinde</item>
+        <item>Plain Inclinde</item>
+        <item>Grass Inclinde</item>
+        <item>Grass Declinde</item>
+    </string-array>
+    
+    <string-array name="walk_speed">
+         <item>Not Defined</item>
+        <item>Normal Walk</item>
+        <item>Slow Walk</item>
+        <item>Fast Walk</item>
+    </string-array>
+   
+    <string-array name="session_id">
+         <item>Not Defined</item> 
+        <item>Session 1</item>
+        <item>Session 2</item>
+    </string-array>
+    
+        
+</resources>

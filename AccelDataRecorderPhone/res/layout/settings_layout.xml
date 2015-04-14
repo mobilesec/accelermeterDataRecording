@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <TextView android:id="@+id/pidView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="P_ID"/>
+    <Spinner android:id="@+id/pid_spinner" android:layout_width="match_parent" android:layout_height="37dp"/>
+    <TextView android:id="@+id/shoe_textView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Shoe Type"/>
+    <Spinner android:id="@+id/shoe_spinner" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <TextView android:id="@+id/lower_textView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Lower Type"/>
+    <Spinner android:id="@+id/lower_spinner" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <TextView android:id="@+id/locationView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Location"/>
+    <Spinner android:id="@+id/location_spinner" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <TextView android:id="@+id/surface_textView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Surface Type"/>
+    <Spinner android:id="@+id/surface_spinner" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <TextView android:id="@+id/walk_textView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Walk Speed"/>
+    <Spinner android:id="@+id/walk_spinner" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <TextView android:id="@+id/session_textView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Session ID"/>
+    <Spinner android:id="@+id/session_spinner" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    
+
+</LinearLayout>

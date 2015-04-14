@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <integer-array name="Pre_Sets">
+     
+         <item>0</item> <!-- PID -->
+         <item>2</item><!-- sensor location ID -->
+         <item>0</item><!-- Shoe ID -->
+         <item>0</item><!-- Lower ID -->
+         <item>1</item><!-- SurfaceID -->
+         <item>1</item><!-- walkspeedID -->
+         <item>1</item><!-- SessionID -->
+     </integer-array>
+</resources>
